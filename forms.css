@@ -1,0 +1,70 @@
+body{
+    background-image: url(fundo_forms.jpg);
+    background-repeat: no-repeat;
+    background-size: 1940px 970px;
+}
+h1{
+    position: absolute;
+    left: 1165px;
+
+    font-size: 45px;
+}
+legend{
+    font-size: 30px;
+}
+.lado{
+    background-color: azure;
+    opacity: 0.80;
+
+    position: absolute;
+    right: 0px;
+    top: 0px;  
+
+    height: 100%;
+    width: 50%;
+
+}
+.saida{
+    position: absolute;
+    left: 1850px;
+    top: 20px;
+
+    height: 30px;
+    width: 40px;
+}
+.tudo{
+    color: rgb(15, 15, 15);
+    font-family:  "Moderustic", sans-serif;
+}
+fieldset{
+    position: absolute;
+    left: 1210px;
+    top: 150px;
+
+    border-radius: 30px;
+
+    width: 370px;
+    height: 600px;
+}
+
+input{
+    background-color: rgb(235, 235, 235);
+    
+    
+    width: 340px;
+    height: 33px;
+
+    border-radius: 20px;
+    border: none;
+}
+button{
+    position: absolute;
+    left: 1280px;
+    top: 800px;
+
+    height: 50px;
+    width: 250px;
+
+    border: none;
+    border-radius: 30px;
+}

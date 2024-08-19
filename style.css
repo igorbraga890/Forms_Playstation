@@ -1,0 +1,30 @@
+body{
+    background-image: url(fundo_inicial3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1880px 970px;
+}
+h1{
+    background-color: azure;
+    width: 800px;
+    
+    border-radius: 5px;
+    text-align: center;
+
+    font-family: "Moderustic", sans-serif;
+}
+button{
+    background-color: azure; 
+
+    font-family: "Moderustic", sans-serif;
+    font-style: bold;
+    font-size: 17px;
+
+    border: solid aliceblue;
+    border-radius: 5px;
+
+    margin-top: 200px;
+
+    height: 50px;
+    width: 150px;
+
+}
